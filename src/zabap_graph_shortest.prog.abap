@@ -10,7 +10,6 @@ CLASS app DEFINITION CREATE PUBLIC.
   PUBLIC SECTION.
     METHODS main.
 
-
 ENDCLASS.
 
 NEW app( )->main( ).
